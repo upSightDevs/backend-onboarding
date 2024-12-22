@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'backend_onboarding.urls'
+ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
     {
