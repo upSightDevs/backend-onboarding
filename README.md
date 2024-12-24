@@ -1,8 +1,3 @@
-import Link from "next/link";
-import "github-markdown-css";
-
-<main className="markdown-body">
-
 # 🏢 업사이트 백엔드 온보딩
 
 안녕하세요! 업사이트 팀의 백엔드 개발자 합격을 정말 축하드립니다. 🎉 
