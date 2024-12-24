@@ -27,10 +27,9 @@
 11. 사용자는 자신이 작성한 게시글과 댓글만 수정/삭제할 수 있습니다.
 
 ## 제약사항
-- 제약 사항
-    - JWT를 사용한 인증 로그인 시스템 구현
-    - Restful 설계 원칙을 지킨 API 설계
-    - 모든 API는 pytest-django를 사용해 test가 되어 있어야 합니다.(test coverage 90% 이상)
-    - 모든 API는 README.md에 설명되어 있어야 합니다.
-    - 모든 게시글 리스트 API는 20개씩 pagination이 되어 있어야 합니다.
-    - 배포 환경과 개발 환경이 분리 될 수 있는 구조로 구축 합니다.
+- JWT를 사용한 인증 로그인 시스템 구현
+- Restful 설계 원칙을 지킨 API 설계
+- 모든 API는 pytest-django를 사용해 test가 되어 있어야 합니다.(test coverage 90% 이상)
+- 모든 API는 README.md에 설명되어 있어야 합니다.
+- 모든 게시글 리스트 API는 20개씩 pagination이 되어 있어야 합니다.
+- 배포 환경과 개발 환경이 분리 될 수 있는 구조로 구축 합니다.
