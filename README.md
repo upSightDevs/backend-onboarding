@@ -6,6 +6,13 @@
 
 ---
 
+## 테크 스펙
+- Python - 3.10
+- Django - 4.2.9
+- djangorestframework - 3.15.1
+- postgresql - 16.4
+- pytest-django - 4.8
+
 ## 컨벤션
 - https://www.notion.so/9dfc3389347c4e608f9622799a0197e3
 
