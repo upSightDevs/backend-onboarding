@@ -15,7 +15,7 @@
 | Django REST Framework | 3.15.1   |
 | PostgreSQL           | 16.4     |
 | pytest-django        | 4.8      |
-
+|djangorestframework-simplejwt|5.3.1 |
 ---
 
 ## 📏 **컨벤션**
